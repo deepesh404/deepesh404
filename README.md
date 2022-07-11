@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @deepesh 
 - 👀 I’m interested in learning new technology and contributing to open source project
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Github
 - 💞️ I’m looking to collaborate on Web development
 - 📫 you can reach out to me here with deepesh404 as my github name.
 
