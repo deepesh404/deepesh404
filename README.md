@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @deepesh 
-- 👀 I’m interested in learning new technology and contributing to open source project
-- 🌱 I’m currently learning Github
-- 💞️ I’m looking to collaborate on Web development
-- 📫 you can reach out to me here with deepesh404 as my github name.
+- 👋 Hi, I’m @deepesh
+- 👀 I’m interested in learning new technology,Sharing my Knowleage, contributing for create better world.
+- 🌱 I’m currently learning c#,C++,Unity3D, Much More
+- 💞️ I’m looking to collaborate on Design and Development
+- 📫 you can reach out to me here with Dr.Coder as my github name.
 
 
 <!---
