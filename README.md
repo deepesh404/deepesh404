@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Deepesh</h1>
-<h3 align="center">Developer with passion for Teaching</h3>
+<h3 align="center">Entrepreneur who share Entrepreneurial journey</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepesh404&label=Profile%20views&color=0e75b6&style=flat" alt="deepesh404" /> </p>
 
-- 🌱 I’m currently learning **ChatGPT,GPT-4,Auto-GPT**
+- 🌱 I’m currently learning **SEO,Dark Web,and Much More**
 
-- 💬 Ask me about **ChatGPT, Development**
+- 💬 Ask me about **SEO, Dark Web, and Much More**
 
 - 📫 How to reach me **sachdevdeepesh183@gmail.com**
 
-- ⚡ Fun fact **I think I am Funny**
+- ⚡ Fun fact **I think I am Witty**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
