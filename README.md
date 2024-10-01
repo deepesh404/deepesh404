@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepesh404&label=Profile%20views&color=0e75b6&style=flat" alt="deepesh404" /> </p>
 
-- 🌱 I’m currently learning **SEO,Dark Web,and Much More**
+- 🌱 I’m currently learning *ChatGPT*,*AutoGPT*, and Much More**
 
-- 💬 Ask me about **SEO, Dark Web, and Much More**
+- 💬 Ask me about *AI Tool*,*Prompt Engineering*, and Much More**
 
 - 📫 How to reach me **sachdevdeepesh183@gmail.com**
 
