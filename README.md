@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Deepesh</h1>
-<h3 align="center">Software Engineer Turn Entrepreneur who share Entrepreneurial journey</h3>
+<h3 align="center">💻 Software Engineer | 🚀 Entrepreneur | 🌟 Innovating at the Crossroads of Tech and Business| 👼 Angel Investor</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepesh404&label=Profile%20views&color=0e75b6&style=flat" alt="deepesh404" /> </p>
 
