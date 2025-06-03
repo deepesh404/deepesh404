@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Deepesh</h1>
-<h3 align="center">🚀Founder&CTO@Myfirstventure|💻 Software Engineer|🤝 Angel Investor|🌟 YCominator Alum</h3>
+<h3 align="center">🚀Founder&Developer@Mutantgeneticgladiator|💻 Software Engineer|🤝 Angel Investor|🌟 YCominator Alum</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepesh404&label=Profile%20views&color=0e75b6&style=flat" alt="deepesh404" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **sachdevdeepesh183@gmail.com**
 
-- ⚡ Fun fact **I think I am Witty**
+- ⚡ Fun fact **I think I am Funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
